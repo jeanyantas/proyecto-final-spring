@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head th:replace="plantilla/plantilla :: head"></head>
+	<body>
+		<header th:replace="plantilla/plantilla :: header"></header>
+		<div class="container mt-2">
+			<form th:action="@{/grabar}" th:object="${proveedor}" method="post" class="form-control">
+				<div class="card bg-light">
+					<div class="card-header bg-info text-white" th:text="${titulo}"></div>
+					<div class="form-floating mb-3">
+						<label class="col-md-2" for="id">Id:</label>
+						<input type="text" readonly th:field="*{id}" class="form-control form-control-sm col-md-10" id="id" placeholder="..."><small></small>
+					</div>	
+					<div class="form-floating mb-3">
+						<label class="col-md-2" for="ruc">Ruc:</label>
+						<input type="text" th:field="*{ruc}" class="form-control form-control-sm col-md-10" id="ruc" placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..."> <small> </small>
+					</div>
+					<div class="form-floating mb-3">
+						<label class="col-md-2" for="razonSocial">Razon Social:</label>
+						<input type="text" th:field="*{razonsocial}" class="form-control form-control-sm col-md-10" id="razonSocial" placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..."> <small></small>
+					</div>
+					<div class="form-floating mb-3">
+						<label class="col-md-2" for="direccion">Direccion:</label>
+						<input type="text" th:field="*{direccion}" class="form-control form-control-sm col-md-10" id="direccion" placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..."> <small></small>
+					</div>
+					<div class="form-floating mb-3">
+						<label class="col-md-2" for="distrito">Distrito</label>
+						<input type="text" th:field="*{distrito}" class="form-control form-control-sm col-md-10" id="distrito" placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..."> <small></small>
+					</div>
+					<div class="form-floating mb-3">
+						<label class="col-md-2" for="telefono">Telefono</label>
+						<input type="text" th:field="*{telefono}" class="form-control form-control-sm col-md-10" id="telefono" placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..."> <small></small>
+					</div>
+					<div class="form-floating mb-3">
+						<label class="col-md-2" for="correo">Correo</label>
+						<input type="text" th:field="*{correo}" class="form-control form-control-sm col-md-10" id="correo" placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..."> <small></small>
+					</div>
+					<div class="form-floating mb-3">
+						<label class="col-md-2" for="paginaWeb">Pagina Web</label>
+						<input type="text" th:field="*{paginaweb}" class="form-control form-control-sm col-md-10" id="paginaWeb" placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..." placeholder="..."> <small></small>
+					</div>
+				</div>
+				<div class="card-footer bg-light">
+					<input type="submit" class="btn btn-primary" value="Guardar">
+				</div>
+			</form>
+		</div>
+		<footer th:replace="plantilla/plantilla :: footer"></footer>
+	</body>
+</html>

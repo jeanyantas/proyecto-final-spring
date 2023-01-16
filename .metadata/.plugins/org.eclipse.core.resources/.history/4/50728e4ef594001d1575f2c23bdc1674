@@ -1,0 +1,11 @@
+package com.example.demo.service;
+
+import java.util.List;
+import com.example.demo.entity.Proveedor;
+
+public interface VehiculoService {
+	public List<Proveedor> listarTodos();
+	public void grabar(Proveedor vehiculo);
+	public Proveedor buscarPorId(long id);
+	public void eliminar(Long id);
+}

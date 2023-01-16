@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head th:replace="plantilla/plantilla :: head"></head>
+	<body>
+		<header th:replace="plantilla/plantilla :: header"></header>
+		<div class="container my-4 bg-light">
+			<form class="form-control p-3 my-5 col-md-8" th:action="@{/grabar}" th:object="${proveedor}" method="post">
+				<div class="mx-auto">
+					<div class="card-header bg-primary text-white rounded-3 text-center" th:text="${titulo}"></div>
+					<div class="my-3">
+						<label for="id">Id:</label>
+						<input type="text" readonly th:field="*{id}" class="form-control" id="id">
+					</div>
+					<div class="mb-3">
+						<label for="ruc">Ruc:</label>
+						<input type="text" th:field="*{ruc}" class="form-control" id="ruc" placeholder="Ingrese el RUC">
+					</div>
+					<div class="mb-3">
+						<label for="razonSocial">Raz&oacute;n Social:</label>
+						<input type="text" th:field="*{razonsocial}" class="form-control" id="razonSocial" placeholder="Ingrese la raz&oacute;n social">
+					</div>
+					<div class="mb-3">
+						<label for="direccion">Direcci&oacute;n:</label>
+						<input type="text" th:field="*{direccion}" class="form-control" id="direccion" placeholder="Ingrese la direcci&oacute;n">
+					</div>
+					<div class="mb-3">
+						<label for="distrito">Distrito</label>
+						<input type="text" th:field="*{distrito}" class="form-control" id="distrito" placeholder="Ingrese el distrito">
+					</div>
+					<div class="mb-3">
+						<label for="telefono">Tel&eacute;fono</label>
+						<input type="text" th:field="*{telefono}" class="form-control" id="telefono" placeholder="Ingrese el tel&eacute;fono">
+					</div>
+					<div class="mb-3">
+						<label for="correo">Correo</label>
+						<input type="text" th:field="*{correo}" class="form-control" id="correo" placeholder="Ingrese el correo">
+					</div>
+					<div class="mb-3">
+						<label for="paginaWeb">P&aacute;gina Web</label>
+						<input type="text" th:field="*{paginaweb}" class="form-control" id="paginaWeb" placeholder="Ingrese la p&aacute;gina web">
+					</div>
+
+					<input type="submit" class="btn btn-primary" value="Guardar">
+				</div>
+			</form>
+		</div>
+		<footer th:replace="plantilla/plantilla :: footer"></footer>
+	</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="plantilla/plantilla :: head">
+</head>
+<body>
+<header th:replace="plantilla/plantilla :: header">
+</header>
+<div class="container">
+<h1 th:text="${titulo}"></h1>
+<a class="btn btn-primary btn-sm" th:href="@{/crear}"
+th:text="'Nuevo Vehiculo'"></a>
+<table class="table">
+<thead class="thead-light">
+<tr>
+<th scope="col">ID</th>	
+<th scope="col">PLACA</th>
+<th scope="col">MARCA</th>
+<th scope="col">MODELO</th>
+<th scope="col">PRECIO</th>
+<th scope="col">COLOR</th>
+<th scope="col">FABRICACION</th>
+<th scope="col">FOTO</th>
+<th scope="col">EDITAR</th>
+<th scope="col">ELIMINAR</th>
+</tr>
+</thead>
+<tbody>
+	<tr th:each="pr:${vehiculos}">
+		<th scope="row" th:text="${pr.id}"></th>	
+		<td th:text="${pr.placa}"></td>
+		<td th:text="${pr.marca}"></td>
+		<td th:text="${pr.modelo}"></td>
+		<td th:text="${pr.precio}"></td>
+		<td th:text="${pr.color}"></td>
+		<td th:text="${pr.fabricacion}"></td>
+		<td th:text="${pr.foto}"></td>
+		<td><a class="btn btn-success btn-sn" th:href="@{/editar/} + ${pr.id}" th:text="'Editar'" title="Editar vehiculo."></a></td>
+		<td><a class="btn btn-danger btn-sn" th:href="@{/eliminar/} + ${pr.id}" th:text="'Eliminar'" title="Eliminar vehiculo." onclick="return confirm('Está seguro de eliminar el registro?');"></a></td>
+	</tr>
+</tbody>
+</table>
+</div>
+<footer th:replace="plantilla/plantilla :: footer">
+</footer>
+</body>
+</html>

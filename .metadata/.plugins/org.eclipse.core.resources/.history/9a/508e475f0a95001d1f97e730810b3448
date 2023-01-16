@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head th:replace="plantilla/plantilla :: head"></head>
+	<body>
+		<header th:replace="plantilla/plantilla :: header"></header>
+		<div class="container">
+			<h1 th:text="${titulo}"></h1>
+		</div>
+		<p>Este es el modulo de proveedores del proyecto final del curso Arquitectura Java con Framework Spring</p>
+		<footer th:replace="plantilla/plantilla :: footer"></footer>
+	</body>
+</html>

@@ -1,0 +1,612 @@
+2023-01-15 11:30:42,575 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 11:31:21,140 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\pom.xml.
+2023-01-15 11:31:23,113 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2023-01-15 11:31:23,114 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-01-15 11:31:23,116 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2023-01-15 11:31:23,118 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2023-01-15 11:31:24,265 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2023-01-15 11:33:10,623 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 11:33:50,931 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:33:50,989 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources
+2023-01-15 11:33:51,627 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:33:55,100 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:33:55,101 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:33:55,107 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:34:26,535 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:34:26,536 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:34:26,542 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:34:30,294 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:34:30,294 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:34:30,301 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:34:52,596 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:34:52,597 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:34:52,603 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:34:54,999 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:34:54,999 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:34:55,005 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:35:15,456 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 11:36:26,795 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:36:26,837 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources
+2023-01-15 11:36:26,852 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:36:28,432 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:36:28,433 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:36:28,440 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:36:33,918 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:36:33,919 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:36:33,924 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:36:38,780 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:36:38,781 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:36:38,787 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:37:09,150 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 11:37:55,780 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:37:55,845 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources
+2023-01-15 11:37:55,877 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:38:00,011 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:00,011 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:00,020 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:38:02,487 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:02,488 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:02,494 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:38:06,999 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:07,000 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:07,007 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:38:09,579 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:09,580 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:09,589 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:38:15,910 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:15,911 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:38:15,917 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:38:41,356 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 11:39:18,816 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:39:18,865 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources
+2023-01-15 11:39:18,880 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:39:20,611 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:39:20,612 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:39:20,619 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:39:23,457 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:39:23,458 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:39:23,463 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:39:32,836 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:39:32,839 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:39:32,846 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\demo\src\test\resources
+2023-01-15 11:40:53,199 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\pom.xml.
+2023-01-15 11:40:55,202 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:40:55,246 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources
+2023-01-15 11:40:55,284 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:40:58,008 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:40:58,016 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources
+2023-01-15 11:40:58,140 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:42:11,133 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:42:11,139 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:42:11,145 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:46:13,079 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:46:13,080 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:46:13,091 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:46:47,406 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 11:48:39,108 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:48:39,141 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:48:39,204 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:49:45,301 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:49:45,310 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:49:45,320 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:51:10,308 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:51:10,339 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:51:10,350 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:51:34,906 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:51:34,918 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:51:34,929 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:51:57,009 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:51:57,020 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:51:57,025 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:52:58,379 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:52:58,398 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:52:58,413 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:53:32,537 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:53:32,548 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:53:32,566 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:54:00,692 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:54:00,703 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:54:00,748 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:54:42,941 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:54:42,951 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:54:42,962 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:54:56,251 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:54:56,263 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:54:56,274 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:56:12,980 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:56:12,992 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:56:13,027 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:56:48,511 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:56:48,522 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:56:48,536 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:56:58,500 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:56:58,520 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:56:58,530 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:57:13,951 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:57:13,962 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:57:13,967 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:57:39,672 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:57:39,691 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:57:39,709 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:57:57,037 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:57:57,044 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:57:57,056 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:58:12,707 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:58:12,721 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 11:58:12,731 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:58:42,165 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:58:42,166 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:58:42,176 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:59:00,413 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:59:00,415 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:59:00,437 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 11:59:23,458 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 11:59:23,460 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 11:59:23,470 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 12:32:24,404 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 12:32:24,419 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 12:32:24,424 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 12:32:29,409 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 12:32:29,420 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 12:32:29,425 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:44:22,961 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:44:22,999 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 13:44:23,018 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:45:07,439 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:45:07,458 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 13:45:07,466 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:51:43,755 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:51:43,756 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:51:43,765 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:52:07,882 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:52:07,883 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:52:07,892 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:55:35,125 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:55:35,127 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:55:35,137 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:55:46,401 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:55:46,401 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:55:46,409 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:56:15,109 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:56:15,110 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:56:15,121 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:57:07,028 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:57:07,029 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:57:07,042 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:57:52,489 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:57:52,490 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:57:52,495 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 13:58:55,430 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 13:58:55,431 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 13:58:55,444 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:00:29,274 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:00:29,275 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:00:29,280 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:00:59,292 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:00:59,293 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:00:59,304 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:07:01,712 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 14:08:46,345 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:08:46,416 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources
+2023-01-15 14:08:46,437 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:08:52,579 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:08:52,580 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:08:52,590 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:11:51,423 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:11:51,425 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:11:51,436 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:12:05,330 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:12:05,332 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:12:05,348 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:12:39,839 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:12:39,840 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:12:39,855 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:13:20,151 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:13:20,152 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:13:20,160 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:15:04,926 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:15:04,937 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources
+2023-01-15 14:15:04,948 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:15:39,521 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:15:39,524 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:15:39,545 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:16:39,811 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:16:39,812 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:16:39,818 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:17:46,390 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:17:46,392 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:17:46,407 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:18:35,874 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:18:35,875 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:18:35,881 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:19:18,895 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:19:18,896 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:19:18,904 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:19:38,092 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:19:38,093 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:19:38,104 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:20:55,905 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:20:55,908 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:20:55,931 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:24:40,507 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:24:40,509 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:24:40,527 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:24:54,951 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:24:54,952 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:24:54,967 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:25:30,128 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:25:30,129 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:25:30,133 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:27:24,742 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:27:24,744 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:27:24,757 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:27:31,287 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:27:31,289 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:27:31,310 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:27:34,701 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:27:34,702 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:27:34,710 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:32:19,761 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:32:19,761 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:32:19,768 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:33:28,157 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:33:28,159 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:33:28,173 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:34:28,260 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:34:28,263 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:34:28,283 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:34:52,749 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 14:34:52,750 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:34:52,760 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 14:55:48,743 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 14:57:54,095 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 14:57:54,173 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 14:57:54,638 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 15:01:24,709 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 15:01:24,710 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 15:01:24,717 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 15:03:53,762 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 15:03:53,763 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 15:03:53,773 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:26:02,162 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:26:02,163 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:26:02,172 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:26:09,054 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:26:09,055 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:26:09,065 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:27:34,852 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:27:34,852 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:27:34,863 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:27:40,956 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:27:40,957 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:27:40,969 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:28:00,891 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:28:00,892 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:28:00,906 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:29:50,914 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:29:50,916 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:29:50,925 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:29:55,014 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:29:55,042 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:29:55,052 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:29:59,340 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:29:59,340 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:29:59,346 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:35:08,591 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:35:08,594 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:35:08,612 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:36:45,792 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:36:45,793 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:36:45,896 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:37:39,938 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:37:39,939 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:37:39,949 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:39:25,159 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:39:25,160 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:39:25,173 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:41:15,338 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:41:15,339 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:41:15,349 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:41:26,611 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:41:26,611 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:41:26,618 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:41:52,944 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:41:52,945 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:41:52,954 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:43:21,982 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:43:21,983 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:43:21,993 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:43:46,344 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:43:46,346 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:43:46,360 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:44:52,365 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:44:52,367 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:44:52,381 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:45:01,365 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:45:01,366 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:45:01,379 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:45:09,367 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:45:09,368 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:45:09,375 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:45:50,026 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:45:50,027 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:45:50,039 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:46:14,542 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:46:14,542 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:46:14,647 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:47:57,971 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:47:57,973 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:47:57,986 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:49:26,554 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:49:26,556 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:49:26,569 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:50:12,568 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:50:12,569 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:50:12,588 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:51:33,819 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:51:33,820 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:51:33,828 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:51:42,474 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:51:42,476 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:51:42,483 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:52:45,116 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:52:45,117 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:52:45,124 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:53:57,324 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:53:57,325 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:53:57,340 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:55:12,717 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:55:12,719 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:55:12,737 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:56:45,699 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:56:45,701 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:56:45,716 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:57:46,975 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:57:46,977 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:57:46,993 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 16:58:49,282 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 16:58:49,283 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 16:58:49,614 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:01:02,031 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:01:02,033 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:01:02,047 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:01:49,108 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:01:49,110 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:01:49,125 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:02:53,813 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:02:53,813 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:02:53,821 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:03:10,870 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:03:10,871 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:03:10,883 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:08:23,066 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:moduloProducto:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\pom.xml.
+2023-01-15 17:08:31,106 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /moduloProducto/src/main/java
+2023-01-15 17:08:31,107 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /moduloProducto/src/main/resources
+2023-01-15 17:08:31,121 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /moduloProducto/src/main/resources
+2023-01-15 17:08:31,197 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /moduloProducto/src/test/java
+2023-01-15 17:08:32,572 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2023-01-15 17:08:32,580 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-15 17:08:33,093 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:moduloProducto:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\pom.xml.
+2023-01-15 17:08:34,123 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /moduloProducto/src/main/java
+2023-01-15 17:08:34,123 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /moduloProducto/src/main/resources
+2023-01-15 17:08:34,124 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /moduloProducto/src/main/resources
+2023-01-15 17:08:34,125 [Worker-40: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /moduloProducto/src/test/java
+2023-01-15 17:08:34,836 [Worker-40: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-01-15 17:53:40,027 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 17:55:29,091 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:55:29,185 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources
+2023-01-15 17:55:29,212 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:55:32,337 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:32,338 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:32,345 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:55:34,128 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:34,129 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:34,133 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:55:37,911 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:55:37,946 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:37,956 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 17:55:40,464 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:40,465 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:40,471 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 17:55:45,447 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:45,447 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:45,453 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:55:47,528 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:47,529 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:47,533 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProveedor\src\test\resources
+2023-01-15 17:55:52,802 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:52,803 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:52,809 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 17:55:56,778 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:56,778 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:55:56,784 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 17:56:25,345 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 17:56:54,155 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 17:56:54,182 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:56:54,192 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 17:56:56,841 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:56:56,842 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:56:56,859 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 17:57:02,043 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:57:02,043 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:57:02,050 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 17:57:04,391 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:57:04,392 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:57:04,398 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 17:57:07,553 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:57:07,554 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:57:07,575 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 17:57:09,603 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:57:09,604 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 17:57:09,609 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 18:04:10,603 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:04:10,654 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:04:10,661 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 18:07:32,736 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:moduloCliente:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloCliente\pom.xml.
+2023-01-15 18:07:33,815 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /moduloCliente/src/main/java
+2023-01-15 18:07:33,816 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /moduloCliente/src/main/resources
+2023-01-15 18:07:33,833 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /moduloCliente/src/main/resources
+2023-01-15 18:07:33,878 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /moduloCliente/src/test/java
+2023-01-15 18:07:35,079 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-01-15 18:07:35,089 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-15 18:07:35,549 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:moduloCliente:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloCliente\pom.xml.
+2023-01-15 18:07:36,467 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /moduloCliente/src/main/java
+2023-01-15 18:07:36,468 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /moduloCliente/src/main/resources
+2023-01-15 18:07:36,468 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /moduloCliente/src/main/resources
+2023-01-15 18:07:36,469 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /moduloCliente/src/test/java
+2023-01-15 18:07:37,110 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-01-15 18:15:20,084 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:15:20,094 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:15:20,101 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 18:16:11,491 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:16:11,498 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:16:11,504 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 18:25:25,018 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 18:30:21,367 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:30:21,415 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:30:21,424 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloCliente\src\test\resources
+2023-01-15 18:30:22,258 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:30:22,260 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:30:22,267 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloCliente\src\test\resources
+2023-01-15 18:30:25,439 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:30:25,440 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:30:25,446 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloCliente\src\test\resources
+2023-01-15 18:40:32,388 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 18:40:33,596 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/extras/thymeleaf-extras-springsecurity6/3.1.1.RELEASE/thymeleaf-extras-springsecurity6-3.1.1.RELEASE.pom
+2023-01-15 18:40:33,815 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/extras/thymeleaf-extras-springsecurity6/3.1.1.RELEASE/thymeleaf-extras-springsecurity6-3.1.1.RELEASE.pom
+2023-01-15 18:40:34,063 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/extras/thymeleaf-extras-springsecurity6/3.1.1.RELEASE/thymeleaf-extras-springsecurity6-3.1.1.RELEASE.jar
+2023-01-15 18:40:34,814 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/extras/thymeleaf-extras-springsecurity6/3.1.1.RELEASE/thymeleaf-extras-springsecurity6-3.1.1.RELEASE.jar
+2023-01-15 18:40:35,981 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /principal/src/main/java
+2023-01-15 18:40:35,981 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /principal/src/main/resources
+2023-01-15 18:40:35,988 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /principal/src/main/resources
+2023-01-15 18:40:36,001 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /principal/src/test/java
+2023-01-15 18:40:37,177 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-01-15 18:40:37,184 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-15 18:40:37,219 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/extras/thymeleaf-extras-springsecurity6/3.1.1.RELEASE/thymeleaf-extras-springsecurity6-3.1.1.RELEASE-sources.jar
+2023-01-15 18:40:37,665 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 18:40:38,557 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/extras/thymeleaf-extras-springsecurity6/3.1.1.RELEASE/thymeleaf-extras-springsecurity6-3.1.1.RELEASE-sources.jar
+2023-01-15 18:40:38,579 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.thymeleaf.extras:thymeleaf-extras-springsecurity6:3.1.1.RELEASE
+2023-01-15 18:40:38,805 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /principal/src/main/java
+2023-01-15 18:40:38,806 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /principal/src/main/resources
+2023-01-15 18:40:38,807 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /principal/src/main/resources
+2023-01-15 18:40:38,809 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /principal/src/test/java
+2023-01-15 18:40:39,832 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-01-15 18:44:16,925 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 18:44:17,844 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:44:17,844 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:44:17,852 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\src\test\resources
+2023-01-15 18:44:19,571 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 18:44:19,592 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 18:44:19,597 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\src\test\resources
+2023-01-15 19:01:32,773 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 19:01:32,780 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 19:01:32,784 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\src\test\resources
+2023-01-15 19:10:20,348 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 19:10:20,359 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 19:10:20,364 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\src\test\resources
+2023-01-15 19:11:43,948 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 19:11:43,956 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 19:11:43,960 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\src\test\resources
+2023-01-15 19:51:28,480 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 19:54:29,790 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 19:54:31,904 [Worker-29: Building] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Could not read maven project
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:417)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:407)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.lambda$4(AbstractMavenArchiverConfigurator.java:577)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.loadParentHierarchy(AbstractMavenArchiverConfigurator.java:569)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.generateManifest(AbstractMavenArchiverConfigurator.java:366)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:229)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:221)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:149)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:87)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:196)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1020)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:247)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:392)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:395)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:506)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:454)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:536)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal: C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal (Acceso denegado) @ 
+ for project  at C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:180)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:124)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$3(MavenImpl.java:415)
+	... 35 common frames omitted
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal: C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal (Acceso denegado) @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197)
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:687)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:303)
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:267)
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:173)
+	... 37 common frames omitted
+2023-01-15 19:55:15,714 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 19:55:17,466 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 19:55:17,466 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 19:55:17,471 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\src\test\resources
+2023-01-15 19:55:18,749 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 19:55:18,813 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 19:55:18,818 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\src\test\resources
+2023-01-15 19:56:08,122 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 19:56:35,565 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 19:56:36,652 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 19:56:36,653 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 19:56:36,667 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\src\test\resources
+2023-01-15 19:57:13,811 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 20:00:54,837 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 20:05:19,562 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 20:05:24,984 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /principal/src/main/java
+2023-01-15 20:05:24,984 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /principal/src/main/resources
+2023-01-15 20:05:24,993 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /principal/src/main/resources
+2023-01-15 20:05:25,003 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /principal/src/test/java
+2023-01-15 20:05:26,337 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2023-01-15 20:05:26,346 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-15 20:05:27,041 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:principal:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\pom.xml.
+2023-01-15 20:05:29,010 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /principal/src/main/java
+2023-01-15 20:05:29,011 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /principal/src/main/resources
+2023-01-15 20:05:29,012 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /principal/src/main/resources
+2023-01-15 20:05:29,013 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /principal/src/test/java
+2023-01-15 20:05:30,234 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-01-15 20:10:32,395 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-15 20:11:21,470 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 20:11:21,512 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 20:11:21,519 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\principal\src\test\resources
+2023-01-15 20:17:15,985 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:moduloProducto:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\pom.xml.
+2023-01-15 20:20:48,831 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:moduloProducto:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\pom.xml.
+2023-01-15 20:20:49,560 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 20:20:49,561 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 20:20:49,566 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 20:20:58,244 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:moduloProducto:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\pom.xml.
+2023-01-15 20:20:58,982 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 20:20:58,983 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 20:20:58,989 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 20:21:05,379 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 20:21:05,409 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 20:21:05,417 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 20:21:08,664 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-15 20:21:08,676 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-15 20:21:08,681 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\src\test\resources
+2023-01-15 20:29:27,745 [Worker-9: Compute Mappings for project moduloProducto] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:moduloProducto:0.0.1-SNAPSHOT @ C:\Users\makro\Documents\Cursos\MTPE CERTUS - Desarrollador Full Stack\5.- Arquitectura Java con Framework Spring\Proy_Fin\moduloProducto\pom.xml.

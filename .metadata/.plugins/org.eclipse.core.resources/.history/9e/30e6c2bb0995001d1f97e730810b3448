@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head th:replace="plantilla/plantilla :: head"></head>
+	<body>
+		<header th:replace="plantilla/plantilla :: header"></header>
+		<div class="container mt-2">
+			<form th:action="@{/grabar}" th:object="${proveedor}" method="post">
+				<div class="card bg-light">
+					<div class="card-header bg-info text-white" th:text="${titulo}"></div>
+					<div class="form-group row">
+						<label class="col-md-2" for="nombre">Id:</label>
+						<input type="text" th:field="*{id}" class="form-control form-control-sm col-md-10" id="Id" placeholder=""><small></small>
+					</div>	
+					<div class="form-group row">
+						<label class="col-md-2" for="nombre">Ruc:</label>
+						<input type="text" th:field="*{ruc}" class="form-control form-control-sm col-md-10" id="placa" placeholder=""> <small> </small>
+					</div>
+					<div class="form-group row">
+						<label class="col-md-2" for="marca">Razon Social:</label>
+						<input type="text" th:field="*{razonsocial}" class="form-control form-control-sm col-md-10" id="marca" placeholder=""> <small></small>
+					</div>
+					<div class="form-group row">
+						<label class="col-md-2" for="modelo">Direccion:</label>
+						<input type="text" th:field="*{direccion}" class="form-control form-control-sm col-md-10" id="modelo" placeholder=""> <small></small>
+					</div>
+					<div class="form-group row">
+						<label class="col-md-2" for="Precio">Distrito</label>
+						<input type="text" th:field="*{distrito}" class="form-control form-control-sm col-md-10" id="modelo" placeholder=""> <small></small>
+					</div>
+					<div class="form-group row">
+						<label class="col-md-2" for="color">Telefono</label>
+						<input type="text" th:field="*{telefono}" class="form-control form-control-sm col-md-10" id="color" placeholder=""> <small></small>
+					</div>
+					<div class="form-group row">
+						<label class="col-md-2" for="color">Correo</label>
+						<input type="text" th:field="*{correo}" class="form-control form-control-sm col-md-10" id="color" placeholder=""> <small></small>
+					</div>
+					<div class="form-group row">
+						<label class="col-md-2" for="color">Pagina Web</label>
+						<input type="text" th:field="*{paginaweb}" class="form-control form-control-sm col-md-10" id="color" placeholder=""> <small></small>
+					</div>
+				</div>
+				<div class="card-footer bg-light">
+					<input type="submit" class="btn btn-primary btn-sm" value="Guardar">
+				</div>
+			</form>
+		</div>
+		<footer th:replace="plantilla/plantilla :: footer"></footer>
+	</body>
+</html>

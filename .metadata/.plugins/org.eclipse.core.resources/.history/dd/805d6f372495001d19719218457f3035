@@ -1,0 +1,28 @@
+package com.example.demo.entity;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "producto")
+public class Producto {
+	@Id
+	@Column(name = "id")
+	private long id;
+	@Column(name = "codigo")
+	private String codigo;
+	@Column(name = "nombre")
+	private String nombre;
+	@Column(name = "marca")
+	private String marca;
+	@Column(name = "modelo")
+	private String modelo;
+	@Column(name = "precio")
+	private double precio;
+	@Column(name = "stock")
+	private int stock;
+	@Column(name = "fabricacion")
+	private int fabricacion;
+}

@@ -1,0 +1,30 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"bddrone"},
+{"type":"table","name":"cliente","database":"bddrone","data":
+[
+
+]
+}
+,{"type":"table","name":"empleado","database":"bddrone","data":
+[
+
+]
+}
+,{"type":"table","name":"producto","database":"bddrone","data":
+[
+{"id":"1","codigo":"KKM22","nombre":"DJI Mini","marca":"DJI","modelo":"SE FI","precio":"2000","stock":"10","fabriacion":"2018"},
+{"id":"2","codigo":"LLK009","nombre":"DJI Mini 2","marca":"DJI","modelo":"Fly","precio":"2500","stock":"20","fabriacion":"2023"},
+{"id":"3","codigo":"KJKJ98","nombre":"DJI OM","marca":"DJI","modelo":"Athens","precio":"1400","stock":"5","fabriacion":"2012"},
+{"id":"4","codigo":"JK211","nombre":"Dron Sycron","marca":"S\/M","modelo":"F20","precio":"3000","stock":"20","fabriacion":"2022"},
+{"id":"5","codigo":"LKK99","nombre":"Mini Drone","marca":"ITELSYSTEM","modelo":"TK 106","precio":"2000","stock":"22","fabriacion":"2019"}
+]
+}
+,{"type":"table","name":"proveedor","database":"bddrone","data":
+[
+{"id":"1","ruc":"1011111110","razonsocial":"Drones Lurin","direccion":"Urb. Los Girasoles 234 - Av. E","distrito":"Lurin","telefono":"998887667","correo":"lurin@gmai.com","paginaweb":"drones.lurin.com.pe"},
+{"id":"2","ruc":"102222222","razonsocial":"Drones Los Olivos","direccion":"Urb. Los Geranios 111 - Av. La","distrito":"Los Olivos","telefono":"998222345","correo":"losolivos@gmai.com","paginaweb":"drones.losolivos.com.pe"},
+{"id":"3","ruc":"9080","razonsocial":"jibkj","direccion":"kbk","distrito":"jkj","telefono":"kjb","correo":"klnkl","paginaweb":"kbl"}
+]
+}
+]
